@@ -1,0 +1,22 @@
+div  {
+    display: inline-block;
+    width: 210px;
+    height: 210px;
+    background-color: red;
+}
+
+.oitavaDiv, .nonaDiv, .decimaDiv, .decimaprimeiraDiv {
+    background-color: aquamarine;
+}
+
+.decimaquartaDiv, .decimaquintaDiv, .decimasextaDiv, .decimasetimaDiv {
+    background-color: green;    b
+}
+
+.vigesimaDiv, .vigesimaprimeiraDiv, .vigesimasegundaDiv, .vigesimaterceiraDiv {
+    background-color: yellow;
+}
+
+.primeiraDiv:hover, .sextaDiv:hover, .vigesimaquintaDiv:hover, .trigesimaDiv {
+    border: solid black 2px;
+}
